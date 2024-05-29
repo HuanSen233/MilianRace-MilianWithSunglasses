@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <packageId>huansen.MiliraRace.MilianWithSunglasses</packageId>
+    <name>Milian Race-Milian With Sunglasses</name>
+    <author>HuanSen233</author>
+    <supportedVersions>
+        <li>1.5</li>
+    </supportedVersions>
+    <modDependencies>
+        <li>
+            <packageId>Ancot.MiliraRace</packageId>
+            <displayName>Milira Race</displayName>
+        </li>
+    </modDependencies>
+	<loadAfter>
+		<li>Ancot.MiliraRace</li>
+	</loadAfter>
+
+    <modVersion>V1f1</modVersion>
+    <description>
+米莉安！装墨镜！
+    </description>
+
+    <url>https://github.com/HuanSen233/MilianRace-MilianWithSunglasses</url>
+</ModMetaData>
